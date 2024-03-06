@@ -33,12 +33,20 @@
         <p>Solve all practical excersises in statistic book</p>
       </li>
       <li>
-        <h5>Day 6.</h5>
+        <h5>Day 4.</h5>
         <p>Chilling in LeetCode</p>
       </li>
       <li>
+        <h5>Day 5.</h5>
+        <p>Complete all duties</p>
+      </li>
+      <li>
+        <h5>Day 6.</h5>
+        <p>Some Kaggle</p>
+      </li>
+      <li>
         <h5>Day 7.</h5>
-        <p>PLS nothing buy complete all duty</p>
+        <p>PLS chill but coplete all duties</p>
       </li>
   </ol>
 </section>
