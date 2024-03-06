@@ -22,13 +22,13 @@
       [ ]  <label for="task1">Day 1. Solve all practical exercises in MML book</label>
     </li>
     <li>
-      [x]  <label for="task2">Day 2. 4 hours reading a book about data preparing</label>
+      [ ]  <label for="task2">Day 2. 4 hours reading a book about data preparing</label>
     </li>
     <li>
-      [x]  <label for="task3">Day 3. Solve all practical exercises in the statistic book</label>
+      [ ]  <label for="task3">Day 3. Solve all practical exercises in the statistic book</label>
     </li>
     <li>
-      [x]  <label for="task4">Day 4. Chilling in LeetCode</label>
+      [ ]  <label for="task4">Day 4. Chilling in LeetCode</label>
     </li>
     <li>
       [ ]  <label for="task5">Day 5. Complete all duties</label>
