@@ -13,22 +13,22 @@ Each folder represents a step with a 1-week duration, during which I have certai
 ## Week 1
 
 ### Day 1
-- [ ] Solve all practical exercises in MML book
+- Solve all practical exercises in MML book
 
 ### Day 2
-- [x] 4 hours reading a book about data preparing
+- 4 hours reading a book about data preparing
 
 ### Day 3
-- [x] Solve all practical exercises in the statistic book
+- Solve all practical exercises in the statistic book
 
 ### Day 4
-- [x] Chilling in LeetCode
+- Chilling in LeetCode
 
 ### Day 5
-- [ ] Complete all duties
+- Complete all duties
 
 ### Day 6
-- [ ] Some Kaggle
+- Some Kaggle
 
 ### Day 7
-- [ ] PLS chill but complete all duties
+- PLS chill but complete all duties
