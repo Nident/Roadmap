@@ -19,7 +19,7 @@
   <h2>Week 1</h2>
   <ol>
       <li>
-        <input type="checkbox" id="task1" disabled> <label for="task1">Day 1.</label>
+        <input type="checkbox" id="task1"> <label for="task1">Day 1.</label>
         <p>Solve all practical exercises in MML book</p>
       </li>
       <li>
