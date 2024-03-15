@@ -8,3 +8,4 @@ I haven't got ebough time to read a book
 I need to complete 3 last excercises
 
 # Day 4
+No chill, but I've found a new job
